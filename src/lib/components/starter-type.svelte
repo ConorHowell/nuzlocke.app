@@ -33,7 +33,7 @@
     ]
   }
 
-  if (key.startsWith('newgen')) {
+  if (key.startsWith('emseaglass')) {
     starters = [
       { col: 'dragon', name: 'grass', picon: 'rattata' },
       { col: 'rock', name: 'fire', picon: 'sentret' },
