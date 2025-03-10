@@ -19,6 +19,7 @@
     "gen": "romhack",
     "supported": true,
     "patched": true,
+    "patchId": "blazingem",
     "region": "hoenn",
     "lastUpdated": "10th March 2025"
   },
@@ -42,7 +43,7 @@
     "gen": "romhack",
     "supported": true,
     "patched": true,
-    "patchId": "blazingem",
+    "patchId": "emrunbun",
     "region": "hoenn",
     "lastUpdated": "12th April 2023"
   },
