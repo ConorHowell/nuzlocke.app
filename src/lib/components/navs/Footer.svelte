@@ -31,7 +31,7 @@
 
   <span class='inline-flex items-center mb-2'>Made with <Icon inline={true} icon={Heart} class='mx-1 fill-current text-red-500' /> by<strong class=ml-1>Domtronn</strong></span>
 	<br/>
-  <span class='inline-flex items-center mb-2'>Maintained with <Icon inline={true} icon={Heart} class='mx-1 fill-current text-red-500' /> by<strong class=ml-1>Bassel</strong></span>
+  <span class='inline-flex items-center mb-2'>Maintained with <Icon inline={true} icon={Heart} class='mx-1 fill-current text-blue-500' /> by<strong class=ml-1>Desmond</strong></span>
   <br />
   All content & design © Pokémon Nuzlocke Tracker, 2021-{(new Date()).getFullYear()}. <a href='/privacy-policy'>Privacy Policy</a>. <a href='/credit'>Credits</a>.
   <br class='hidden md:block' />
