@@ -14426,27 +14426,24 @@
       "type": "route",
       "name": "Route 101",
       "encounters": [
-        "wurmple",
+        "sentret",
         "zigzagoon",
         "poochyena",
-        "shinx"
+        "hoothoot",
+        "wurmple"
       ]
     },
     {
       "type": "route",
       "name": "Route 103",
       "encounters": [
-        "poochyena",
+        "caterpie",
+        "weedle",
+        "spearow",
+        "hoppip",
         "zigzagoon",
         "wingull",
-        "shinx",
-        "tentacool-hoenn",
-        "tentacool",
-        "pelipper",
-        "magikarp",
-        "omanyte",
-        "staryu",
-        "starmie"
+        "remoraid"
       ]
     },
     {
