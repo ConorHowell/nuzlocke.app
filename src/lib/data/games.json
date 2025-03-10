@@ -1,13 +1,13 @@
 {
-  "emseaglass": {
-    "pid": "emseaglass",
-    "lid": "emseaglass",
+  "newgen": {
+    "pid": "newgen",
+    "lid": "newgen",
     "logo": "/logos/new-generations-logo",
-    "title": "Emerald Seaglass",
+    "title": "New Generations",
     "gen": "romhack",
     "supported": true,
     "patched": true,
-    "patchId": "emseaglass",
+    "patchId": "newgen",
     "region": "kanto",
     "lastUpdated": "5th May 2023"
   },
