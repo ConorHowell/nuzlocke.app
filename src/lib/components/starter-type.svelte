@@ -29,7 +29,7 @@
     starters = [
       { name: 'fire', picon: 'torchic' },
       { name: 'water', picon: 'mudkip' },
-      { name: 'grass', picon: 'treeko' }
+      { name: 'grass', picon: 'treecko' }
     ]
   }
 
