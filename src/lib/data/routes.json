@@ -14417,9 +14417,9 @@
       "type": "route",
       "name": "Starter",
       "encounters": [
-        "clefairy",
-        "eevee",
-        "pikachu"
+        "mudkip",
+        "torchic",
+        "treecko"
       ]
     },
     {
