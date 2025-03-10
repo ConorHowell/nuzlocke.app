@@ -27,9 +27,9 @@
 
   if (key.startsWith('blazingem')) {
     starters = [
-      { col: 'fairy', name: 'fire', picon: 'clefairy' },
-      { col: 'normal', name: 'water', picon: 'eevee' },
-      { col: 'electric', name: 'grass', picon: 'pikachu' }
+      { name: 'fire', picon: 'torchic' },
+      { name: 'water', picon: 'mudkip' },
+      { name: 'grass', picon: 'treeko' }
     ]
   }
 

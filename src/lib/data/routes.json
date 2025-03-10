@@ -14417,8 +14417,8 @@
       "type": "route",
       "name": "Starter",
       "encounters": [
-        "mudkip",
         "torchic",
+        "mudkip",
         "treecko"
       ]
     },
