@@ -25,6 +25,14 @@
     ]
   }
 
+  if (key.startsWith('emseaglass')) {
+    starters = [
+      { col: 'fairy', name: 'fire', picon: 'clefairy' },
+      { col: 'normal', name: 'water', picon: 'eevee' },
+      { col: 'electric', name: 'grass', picon: 'pikachu' }
+    ]
+  }
+
   if (key.startsWith('blazingem')) {
     starters = [
       { col: 'fairy', name: 'fire', picon: 'clefairy' },

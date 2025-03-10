@@ -89,7 +89,7 @@
         }
       },
       {
-        "name": "mareanie-hoenn",
+        "name": "geodude",
         "level": "15",
         "moves": [
           {
@@ -123,7 +123,7 @@
           "name": "Oran Berry",
           "effect": "Held: Consumed at 1/2 max HP to recover 10 HP."
         },
-        "imgUrl": "/blazingem/h-mareanie",
+        "sprite": "74",
         "types": [
           "rock",
           "poison"
